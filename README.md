@@ -4,7 +4,7 @@ This webpage contain a drum kit where each button has different sound, you can p
 
 ## 📃️ Documentation
 
-This website template is simply made by using pure
+This webspage is simply made by using pure
 * [HTML](https://www.w3schools.com/html/html_intro.asp)
 * [CSS](https://www.w3schools.com/css/default.asp)
 * [JavaScript](https://www.w3schools.com/js/)
